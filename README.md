@@ -25,4 +25,6 @@ Currently I'm learning Java and my goal is became a Java Developer ☕☕☕
 <div>
     <a href="https://www.linkedin.com/in/marcos-ribeiro-69516a23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:marcossrj90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ![snake gif](https://github.com/MarcosRibeiroJ/MarcosRibeiroJ/blob/output/github-contribution-grid-snake.svg)
 </div>
